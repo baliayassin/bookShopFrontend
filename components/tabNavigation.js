@@ -7,7 +7,6 @@ import HomeScreen from './HomeScreen'
 import Cart from './cart'
 import AddBook from './Login'
 import SearchBar from './SearchBar'
-import Search from './Search'
 import { Alert } from 'react-native';
 
 

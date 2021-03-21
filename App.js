@@ -4,10 +4,10 @@ import { StyleSheet, Text, View } from 'react-native';
 import TabNavigation from './components/tabNavigation'
 import HomeScreen from './components/HomeScreen'
 import Login from './components/Login'
-
+import Sear from './components/sear'
 export default function App() {
   return (
-    <TabNavigation/>
+    <Sear/>
   );
 }
 
